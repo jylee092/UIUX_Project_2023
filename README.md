@@ -4,7 +4,7 @@ UI/UX 프로젝트 과제
 
 ## 🖥️ 프로젝트 소개
 축제, 영화, 뮤지컬 같은 행사에 참석한 것을 타임라인으로 기록하고, 관련 정보를 검색할 수 있는 플러터 앱입니다.
-<br>예시 이미지
+<br>### 예시 이미지
 <br>
 ![image](https://github.com/jylee092/UIUX_Project_2023/assets/116056672/4a5ccda6-93b5-4ce7-bbe2-d311391fa5d1){: width="60%" height="60%"}
 <br>
