@@ -13,6 +13,10 @@ UI/UX 프로젝트 과제
 <img src="https://github.com/jylee092/UIUX_Project_2023/assets/116056672/18209c1a-090e-461d-9aa0-21c569cd25a3" width="60%" height="60%"/>
 
 
+## 참여자
+* 이*희 (<https://github.com/lkh409>)
+* 이수인
+* 이주영
 
 ## ⏰ 개발 및 수정 기간
 * 2024/5/24 ~ 6/4
